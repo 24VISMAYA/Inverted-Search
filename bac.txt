@@ -1,0 +1,8 @@
+#0;are;1;f2.txt;1;#
+#7;hey;1;file1.txt;1;#
+#7;hii;2;file1.txt;1;f2.txt;1;#
+#7;HI;1;file1.txt;1;#
+#7;how;1;f2.txt;1;#
+#22;wehuwewieu;1;f3.txt;1;#
+#24;you;1;f2.txt;1;#
+#26;??;1;f2.txt;1;#
